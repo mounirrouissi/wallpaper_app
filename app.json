@@ -1,0 +1,39 @@
+{
+  "expo": {
+    "name": "AI-Artify",
+    "slug": "wallkit",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/images/icon.png",
+    "scheme": "myapp",
+    "userInterfaceStyle": "automatic",
+    "splash": {
+      "image": "./assets/images/icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#1c1c1c"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.mounirrouissi.walls"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/images/icon.png",
+        "backgroundColor": "#1c1c1c"
+      },
+      "package": "com.mounirrouissi.walls"
+    },
+    "web": {
+      "bundler": "metro",
+      "favicon": "./assets/images/logo.jpg"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "1ff7f4b7-7067-4913-9fbb-191b290f1b20"
+      }
+    }
+  }
+}
