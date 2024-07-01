@@ -13,11 +13,13 @@ Unlock the world of stunning wallpapers with WallKit! Experience the visual wond
 - **Download and Set**: Download your preferred wallpapers directly to your device and set them as your home screen or lock screen background with just a few taps. Enjoy a seamless and hassle-free wallpaper changing experience.
 - **Share and Inspire**: Show off your unique wallpaper collection with friends and family by sharing directly from the app. Spread the inspiration and let others discover the beauty of WallKit.
 
-## Demo Video
+## Screens
+<img width="182" alt="image" src="https://github.com/mounirrouissi/wallpaper_app/assets/14219671/dbc3f882-d58e-455d-aa49-3dc167ed71cb">
 
-Click on the image below to watch a demo of WallKit:
+<img width="960" alt="image" src="https://github.com/mounirrouissi/wallpaper_app/assets/14219671/acded5b7-ec1d-4e66-9c05-1c85b10a9751">
 
-[![WallKit Demo](https://img.youtube.com/vi/zksSTqScxcA/0.jpg)](https://www.youtube.com/watch?v=zksSTqScxcA)
+<img width="197" alt="image" src="https://github.com/mounirrouissi/wallpaper_app/assets/14219671/dfef5902-56cf-40ee-a951-7d98a8d77f52">
+
 
 ## Installation
 
